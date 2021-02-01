@@ -1,6 +1,7 @@
                             /*Font Awesome Free Icon*/
                             
                             @import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+                            @import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
                             /*Google fonts*/
                             
                             @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap');
@@ -448,11 +449,11 @@
                             }
                             
                             .home .intro .social-links a {
-                                height: 35px;
-                                width: 35px;
+                                height: 42px;
+                                width: 42px;
                                 display: inline-block;
                                 text-align: center;
-                                line-height: 35px;
+                                line-height: 55px;
                                 color: #ffffff;
                                 margin: 0 4px;
                                 border-radius: 50%;
